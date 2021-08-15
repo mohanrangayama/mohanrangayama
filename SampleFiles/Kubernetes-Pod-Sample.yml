@@ -5,10 +5,9 @@ metadata:
    name: hello-pod
    labels:
      app: web
-
 spec:
   containers:
     - name: web-ctr
       image: mohanrangayama:getting-started-k8s:1.0
       ports:
-        -containerPort: 8080
+        - containerPort: 8080
