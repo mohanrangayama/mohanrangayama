@@ -18,18 +18,6 @@ Welcome to my GitHub profile! I'm a Information Systems Engineer with a passion 
 ### Operating Systems
 - **Linux**: Administration, scripting, and performance tuning.
 
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-
 ## 🛠️ Technologies & Tools
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
