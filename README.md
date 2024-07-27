@@ -44,7 +44,7 @@ Feel free to browse through my repositories to see more examples of my work.
 
 Feel free to reach out if you have any questions or want to discuss potential opportunities:
 
-- [LinkedIn](https://www.linkedin.com/in/mohanrangayama)
+- [LinkedIn](https://www.linkedin.com/in/mohan-ranga-yama-70771068)
 - [Twitter](https://twitter.com/MrMohanranga)
 - [Email](mailto:mohanranga.yama@gmail.com)
 
