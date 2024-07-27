@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mohan Ranga Yama]
+# Hi there! 👋 I'm Mohan Ranga Yama
 
 Welcome to my GitHub profile! I'm a Information Systems Engineer with a passion for creating and maintaining reliable, scalable, and efficient systems. My expertise spans across various technologies and platforms, allowing me to tackle complex challenges in dynamic environments.
 
@@ -44,9 +44,9 @@ Feel free to browse through my repositories to see more examples of my work.
 
 Feel free to reach out if you have any questions or want to discuss potential opportunities:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mohanrangayama)
+- [Twitter](https://twitter.com/MrMohanranga)
+- [Email](mailto:mohanranga.yama@gmail.com)
 
 Thanks for visiting my GitHub profile! 🚀
 
