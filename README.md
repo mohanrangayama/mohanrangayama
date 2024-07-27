@@ -18,19 +18,6 @@ Welcome to my GitHub profile! I'm a Information Systems Engineer with a passion 
 ### Operating Systems
 - **Linux**: Administration, scripting, and performance tuning.
 
-## Projects & Contributions
-
-Here are a few highlights of my work:
-
-- **[Project Name]**: A brief description of a project related to your expertise. You might include a link to the project repository or demo.
-- **[Project Name]**: Another project showcasing your skills. Include a link if possible.
-
-Feel free to browse through my repositories to see more examples of my work.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-
 ## 🛠️ Technologies & Tools
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
@@ -47,6 +34,20 @@ Feel free to reach out if you have any questions or want to discuss potential op
 - [LinkedIn](https://www.linkedin.com/in/mohan-ranga-yama-70771068)
 - [Twitter](https://twitter.com/MrMohanranga)
 - [Email](mailto:mohanranga.yama@gmail.com)
+
+Feel free to browse through my repositories to see more examples of my work.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 Thanks for visiting my GitHub profile! 🚀
 
