@@ -18,6 +18,19 @@ Welcome to my GitHub profile! I'm a Information Systems Engineer with a passion 
 ### Operating Systems
 - **Linux**: Administration, scripting, and performance tuning.
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+
 ## 🛠️ Technologies & Tools
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
@@ -33,7 +46,7 @@ Feel free to reach out if you have any questions or want to discuss potential op
 
 - [LinkedIn](https://www.linkedin.com/in/mohan-ranga-yama-70771068)
 - [Twitter](https://twitter.com/MrMohanranga)
-- [Email](mailto:mohanranga.yama@gmail.com)
+- [Email](mailto:noemail@gmail.com)
 
 Feel free to browse through my repositories to see more examples of my work.
 
